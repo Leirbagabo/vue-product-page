@@ -1,4 +1,4 @@
-# boilerplate
+# Vue´s product shop page
 
 ## Project setup
 ```
